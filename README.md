@@ -6,8 +6,7 @@
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4250F7&background=FF512800&center=true&vCenter=true&width=435&lines=%F0%9D%90%96%F0%9D%90%8E%F0%9D%90%8E%F0%9D%90%83%F0%9D%90%9C%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%9F%F0%9D%90%AD+%F0%9D%90%8C%F0%9D%90%A2%F0%9D%90%AB%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%AB+%F0%9D%90%99%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9E%E2%84%A2)](https://git.io/typing-svg)</p>
-<p align="center">
+
 
 ## Deploy To Heroku
 
@@ -49,6 +48,6 @@ uplod - 🎬 Txt file upload
 </p>
  
 -----
-Credits: [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭](https://t.me/Farooq_is_KING) [𝗔𝘀𝗵𝘂𝘁𝗼𝘀𝗵𝗚𝗼𝘀𝘄𝗮𝗺𝗶𝟮𝟰](https://github.com/AshutoshGoswami24)
+Credits: [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭](https://t.me/ILLUMINATI_003) [𝗔𝘀𝗵𝘂𝘁𝗼𝘀𝗵𝗚𝗼𝘀𝘄𝗮𝗺𝗶𝟮𝟰](https://github.com/RAVANA1407)
 
-Last Edited on: 06/15/2024
+Last Edited on: 06/15/2023
